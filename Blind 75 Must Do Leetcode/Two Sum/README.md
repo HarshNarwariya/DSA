@@ -8,3 +8,17 @@ You can return the answer in any order.
 <strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
 </pre>
 
+# Solution
+
++ Use hash table
+
+example:
+
+```
+target = 10
+array = [2, 3, 4, 5, 6]
+
+# on difference if x exists in our hash table
+x = target - array[i] # x exisits in hash table then result = (x, array[i])
+# if not add array[i] to hash table and continue
+```
