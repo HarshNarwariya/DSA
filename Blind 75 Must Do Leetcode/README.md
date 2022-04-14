@@ -1,0 +1,78 @@
+|    | Problem                                                   | Link                                                                                    |   Pattern | Tag                 |
+|---:|:----------------------------------------------------------|:----------------------------------------------------------------------------------------|----------:|:--------------------|
+|  0 | Two Sum                                                   | https://leetcode.com/problems/two-sum                                                   |       nan | Array               |
+|  1 | Longest Substring Without Repeating Characters            | https://leetcode.com/problems/longest-substring-without-repeating-characters            |       nan | String              |
+|  2 | Longest Palindromic Substring                             | https://leetcode.com/problems/longest-palindromic-substring                             |       nan | String              |
+|  3 | Container With Most Water                                 | https://leetcode.com/problems/container-with-most-water                                 |       nan | Array               |
+|  4 | 3 Sum                                                     | https://leetcode.com/problems/3sum                                                      |       nan | Array               |
+|  5 | Remove Nth Node From End of List                          | https://leetcode.com/problems/remove-nth-node-from-end-of-list                          |       nan | Linked List         |
+|  6 | Valid Parentheses                                         | https://leetcode.com/problems/valid-parentheses                                         |       nan | String              |
+|  7 | Merge Two Sorted Lists                                    | https://leetcode.com/problems/merge-two-sorted-lists                                    |       nan | Linked List         |
+|  8 | Merge k Sorted Lists                                      | https://leetcode.com/problems/merge-k-sorted-lists                                      |       nan | Heap                |
+|  9 | Search in Rotated Sorted Array                            | https://leetcode.com/problems/search-in-rotated-sorted-array                            |       nan | Array               |
+| 10 | Combination Sum                                           | https://leetcode.com/problems/combination-sum                                           |       nan | Dynamic Programming |
+| 11 | Rotate Image                                              | https://leetcode.com/problems/rotate-image                                              |       nan | Matrix              |
+| 12 | Group Anagrams                                            | https://leetcode.com/problems/group-anagrams                                            |       nan | String              |
+| 13 | Maximum Subarray                                          | https://leetcode.com/problems/maximum-subarray                                          |       nan | Array               |
+| 14 | Spiral Matrix                                             | https://leetcode.com/problems/spiral-matrix                                             |       nan | Matrix              |
+| 15 | Jump Game                                                 | https://leetcode.com/problems/jump-game                                                 |       nan | Dynamic Programming |
+| 16 | Merge Intervals                                           | https://leetcode.com/problems/merge-intervals                                           |       nan | Interval            |
+| 17 | Insert Interval                                           | https://leetcode.com/problems/insert-interval                                           |       nan | Interval            |
+| 18 | Unique Paths                                              | https://leetcode.com/problems/unique-paths                                              |       nan | Dynamic Programming |
+| 19 | Climbing Stairs                                           | https://leetcode.com/problems/climbing-stairs                                           |       nan | Dynamic Programming |
+| 20 | Set Matrix Zeroes                                         | https://leetcode.com/problems/set-matrix-zeroes                                         |       nan | Matrix              |
+| 21 | Minimum Window Substring                                  | https://leetcode.com/problems/minimum-window-substring                                  |       nan | String              |
+| 22 | Word Search                                               | https://leetcode.com/problems/word-search                                               |       nan | Matrix              |
+| 23 | Decode Ways                                               | https://leetcode.com/problems/decode-ways                                               |       nan | Dynamic Programming |
+| 24 | Validate Binary Search Tree                               | https://leetcode.com/problems/validate-binary-search-tree                               |       nan | Tree                |
+| 25 | Same Tree                                                 | https://leetcode.com/problems/same-tree                                                 |       nan | Tree                |
+| 26 | Binary Tree Level Order Traversal                         | https://leetcode.com/problems/binary-tree-level-order-traversal                         |       nan | Tree                |
+| 27 | Maximum Depth of Binary Tree                              | https://leetcode.com/problems/maximum-depth-of-binary-tree                              |       nan | Tree                |
+| 28 | Construct Binary Tree from Preorder and Inorder Traversal | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal |       nan | Tree                |
+| 29 | Best Time to Buy and Sell Stock                           | https://leetcode.com/problems/best-time-to-buy-and-sell-stock                           |       nan | Array               |
+| 30 | Binary Tree Maximum Path Sum                              | https://leetcode.com/problems/binary-tree-maximum-path-sum                              |       nan | Tree                |
+| 31 | Valid Palindrome                                          | https://leetcode.com/problems/valid-palindrome                                          |       nan | String              |
+| 32 | Longest Consecutive Sequence                              | https://leetcode.com/problems/longest-consecutive-sequence                              |       nan | Graph               |
+| 33 | Clone Graph                                               | https://leetcode.com/problems/clone-graph                                               |       nan | Graph               |
+| 34 | Word Break                                                | https://leetcode.com/problems/word-break                                                |       nan | Dynamic Programming |
+| 35 | Linked List Cycle                                         | https://leetcode.com/problems/linked-list-cycle                                         |       nan | Linked List         |
+| 36 | Reorder List                                              | https://leetcode.com/problems/reorder-list                                              |       nan | Linked List         |
+| 37 | Maximum Product Subarray                                  | https://leetcode.com/problems/maximum-product-subarray                                  |       nan | Array               |
+| 38 | Find Minimum in Rotated Sorted Array                      | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array                      |       nan | Array               |
+| 39 | Reverse Bits                                              | https://leetcode.com/problems/reverse-bits                                              |       nan | Binary              |
+| 40 | Number of 1 Bits                                          | https://leetcode.com/problems/number-of-1-bits                                          |       nan | Binary              |
+| 41 | House Robber                                              | https://leetcode.com/problems/house-robber                                              |       nan | Dynamic Programming |
+| 42 | Number of Islands                                         | https://leetcode.com/problems/number-of-islands                                         |       nan | Graph               |
+| 43 | Reverse Linked List                                       | https://leetcode.com/problems/reverse-linked-list                                       |       nan | Linked List         |
+| 44 | Course Schedule                                           | https://leetcode.com/problems/course-schedule                                           |       nan | Graph               |
+| 45 | Implement Trie (Prefix Tree)                              | https://leetcode.com/problems/implement-trie-prefix-tree                                |       nan | Tree                |
+| 46 | Design Add and Search Words Data Structure                | https://leetcode.com/problems/design-add-and-search-words-data-structure                |       nan | Tree                |
+| 47 | Word Search II                                            | https://leetcode.com/problems/word-search-ii                                            |       nan | Tree                |
+| 48 | House Robber II                                           | https://leetcode.com/problems/house-robber-ii                                           |       nan | Dynamic Programming |
+| 49 | Contains Duplicate                                        | https://leetcode.com/problems/contains-duplicate                                        |       nan | Array               |
+| 50 | Invert Binary Tree                                        | https://leetcode.com/problems/invert-binary-tree                                        |       nan | Tree                |
+| 51 | Kth Smallest Element in a BST                             | https://leetcode.com/problems/kth-smallest-element-in-a-bst                             |       nan | Tree                |
+| 52 | Lowest Common Ancestor of a Binary Search Tree            | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree            |       nan | Tree                |
+| 53 | Lowest Common Ancestor of a Binary Tree                   | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree                   |       nan | Tree                |
+| 54 | Product of Array Except Self                              | https://leetcode.com/problems/product-of-array-except-self                              |       nan | Array               |
+| 55 | Valid Anagram                                             | https://leetcode.com/problems/valid-anagram                                             |       nan | String              |
+| 56 | Meeting Rooms                                             | https://leetcode.com/problems/meeting-rooms                                             |       nan | Interval            |
+| 57 | Meeting Rooms II                                          | https://leetcode.com/problems/meeting-rooms-ii                                          |       nan | Interval            |
+| 58 | Graph Valid Tree                                          | https://leetcode.com/problems/graph-valid-tree                                          |       nan | Graph               |
+| 59 | Missing Number                                            | https://leetcode.com/problems/missing-number                                            |       nan | Binary              |
+| 60 | Alien Dictionary                                          | https://leetcode.com/problems/alien-dictionary                                          |       nan | Graph               |
+| 61 | Encode and Decode Strings                                 | https://leetcode.com/problems/encode-and-decode-strings                                 |       nan | String              |
+| 62 | Find Median from Data Stream                              | https://leetcode.com/problems/find-median-from-data-stream                              |       nan | Heap                |
+| 63 | Longest Increasing Subsequence                            | https://leetcode.com/problems/longest-increasing-subsequence                            |       nan | Dynamic Programming |
+| 64 | Coin Change                                               | https://leetcode.com/problems/coin-change                                               |       nan | Dynamic Programming |
+| 65 | Number of Connected Components in an Undirected Graph     | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph     |       nan | Graph               |
+| 66 | Counting Bits                                             | https://leetcode.com/problems/counting-bits                                             |       nan | Binary              |
+| 67 | Top K Frequent Elements                                   | https://leetcode.com/problems/top-k-frequent-elements                                   |       nan | Heap                |
+| 68 | Sum of Two Integers                                       | https://leetcode.com/problems/sum-of-two-integers                                       |       nan | Binary              |
+| 69 | Pacific Atlantic Water Flow                               | https://leetcode.com/problems/pacific-atlantic-water-flow                               |       nan | Graph               |
+| 70 | Longest Repeating Character Replacement                   | https://leetcode.com/problems/longest-repeating-character-replacement                   |       nan | String              |
+| 71 | Non-overlapping Intervals                                 | https://leetcode.com/problems/non-overlapping-intervals                                 |       nan | Interval            |
+| 72 | Serialize and Deserialize BST                             | https://leetcode.com/problems/serialize-and-deserialize-bst                             |       nan | Tree                |
+| 73 | Subtree of Another Tree                                   | https://leetcode.com/problems/subtree-of-another-tree                                   |       nan | Tree                |
+| 74 | Palindromic Substrings                                    | https://leetcode.com/problems/palindromic-substrings                                    |       nan | String              |
+| 75 | Longest Common Subsequence                                | https://leetcode.com/problems/longest-common-subsequence                                |       nan | Dynamic Programming |
