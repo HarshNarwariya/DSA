@@ -6,7 +6,9 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 4. Pick median as pivot.
 
 `Average Time Complexity: Θ(n log(n))`
+
 `Worst Time Complexity: O(n*log(n))`
+
 `Best Time Complexity: Ω(n*log(n))`
 
 `Space Complexity`
