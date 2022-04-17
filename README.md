@@ -1,2 +1,2 @@
 # DSA
-![](https://github.com/HarshNarwariya/DSA/blob/main/DSA.png)
+![](https://hackr.io/tutorials/learn-data-structures-algorithms/logo/logo-data-structures-algorithms?ver=1587721467)
