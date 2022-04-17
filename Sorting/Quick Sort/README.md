@@ -11,6 +11,5 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 
 `Best Time Complexity: Ω(n*log(n))`
 
-`Space Complexity`
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
