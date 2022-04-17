@@ -4,7 +4,7 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
 `Time complexity: O(n2)`
 
 
-`Space complexity of O(1)`
+`Space complexity: O(1)`
 
 
 ### Example
