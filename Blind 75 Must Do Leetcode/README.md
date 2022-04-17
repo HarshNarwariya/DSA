@@ -1,11 +1,11 @@
 ## Blind 75 Must Do Leetcode
 
-|    | Problem                                                   | Link                                                                                    |   Pattern | Tag                 |
+|    | Problem                                                   | Link                                                                                    |   Status | Tag                 |
 |---:|:----------------------------------------------------------|:----------------------------------------------------------------------------------------|----------:|:--------------------|
-|  0 | Two Sum                                                   | https://leetcode.com/problems/two-sum                                                   |       nan | Array               |
-|  1 | Longest Substring Without Repeating Characters            | https://leetcode.com/problems/longest-substring-without-repeating-characters            |       nan | String              |
+|  0 | Two Sum                                                   | https://leetcode.com/problems/two-sum                                                   |       Done | Array               |
+|  1 | Longest Substring Without Repeating Characters            | https://leetcode.com/problems/longest-substring-without-repeating-characters            |       Done | String              |
 |  2 | Longest Palindromic Substring                             | https://leetcode.com/problems/longest-palindromic-substring                             |       nan | String              |
-|  3 | Container With Most Water                                 | https://leetcode.com/problems/container-with-most-water                                 |       nan | Array               |
+|  3 | Container With Most Water                                 | https://leetcode.com/problems/container-with-most-water                                 |       Done | Array               |
 |  4 | 3 Sum                                                     | https://leetcode.com/problems/3sum                                                      |       nan | Array               |
 |  5 | Remove Nth Node From End of List                          | https://leetcode.com/problems/remove-nth-node-from-end-of-list                          |       nan | Linked List         |
 |  6 | Valid Parentheses                                         | https://leetcode.com/problems/valid-parentheses                                         |       nan | String              |
