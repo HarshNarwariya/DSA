@@ -4,3 +4,6 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 2. Always pick last element as pivot (implemented below)
 3. Pick a random element as pivot.
 4. Pick median as pivot.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
