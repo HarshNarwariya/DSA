@@ -78,3 +78,7 @@
 | 73 | Subtree of Another Tree                                   | https://leetcode.com/problems/subtree-of-another-tree                                   |       nan | Tree                |
 | 74 | Palindromic Substrings                                    | https://leetcode.com/problems/palindromic-substrings                                    |       nan | String              |
 | 75 | Longest Common Subsequence                                | https://leetcode.com/problems/longest-common-subsequence                                |       nan | Dynamic Programming |
+
+
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO8PtAUA=/?moveToViewport=-615,-305,1228,609" frameBorder="0" scrolling="no" allowFullScreen></iframe>
