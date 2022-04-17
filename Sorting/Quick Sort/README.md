@@ -5,5 +5,10 @@ Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an elemen
 3. Pick a random element as pivot.
 4. Pick median as pivot.
 
+`Average Time Complexity: Θ(n log(n))`
+`Worst Time Complexity: O(n*log(n))`
+`Best Time Complexity: Ω(n*log(n))`
+
+`Space Complexity`
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
