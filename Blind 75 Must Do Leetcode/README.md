@@ -2,7 +2,7 @@
 
 |    | Problem                                                   | Link                                                                                    |   Status | Tag                 |
 |---:|:----------------------------------------------------------|:----------------------------------------------------------------------------------------|----------:|:--------------------|
-|  0 | Two Sum                                                   | https://leetcode.com/problems/two-sum                                                   |       Done | Array               |
+|  0 | Two Sum                                                   | <a href="https://leetcode.com/problems/two-sum">Problem</a>                                                   |       Done | Array               |
 |  1 | Longest Substring Without Repeating Characters            | https://leetcode.com/problems/longest-substring-without-repeating-characters            |       Done | String              |
 |  2 | Longest Palindromic Substring                             | https://leetcode.com/problems/longest-palindromic-substring                             |       Done | String              |
 |  3 | Container With Most Water                                 | https://leetcode.com/problems/container-with-most-water                                 |       Done | Array               |
