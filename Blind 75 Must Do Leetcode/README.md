@@ -18,7 +18,7 @@
 | 13 | Maximum Subarray                                          | https://leetcode.com/problems/maximum-subarray                                          |       nan | Array               |
 | 14 | Spiral Matrix                                             | https://leetcode.com/problems/spiral-matrix                                             |       nan | Matrix              |
 | 15 | Jump Game                                                 | https://leetcode.com/problems/jump-game                                                 |       nan | Dynamic Programming |
-| 16 | Merge Intervals                                           | https://leetcode.com/problems/merge-intervals                                           |       nan | Interval            |
+| 16 | Merge Intervals                                           | https://leetcode.com/problems/merge-intervals                                           |       Done | Interval            |
 | 17 | Insert Interval                                           | https://leetcode.com/problems/insert-interval                                           |       nan | Interval            |
 | 18 | Unique Paths                                              | https://leetcode.com/problems/unique-paths                                              |       nan | Dynamic Programming |
 | 19 | Climbing Stairs                                           | https://leetcode.com/problems/climbing-stairs                                           |       nan | Dynamic Programming |
