@@ -1,1 +1,1 @@
-![](https://i.pinimg.com/originals/63/64/77/636477067a9206def4911cbb9c317576.gif)
+![](https://img.favpng.com/15/21/24/stack-workflow-queue-data-structure-algorithm-png-favpng-P4rc4wSSNDbKGKtiuwjnWx1bZ.jpg)
