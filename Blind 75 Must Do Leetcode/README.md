@@ -44,7 +44,7 @@
 | 38 | Find Minimum in Rotated Sorted Array                      | --       | <a href=https://leetcode.com/problems/find-minimum-in-rotated-sorted-array>FMIRSA</a>                        | `NOT DONE`                                                                                                                                                     | Medium       | Array               |   7876 |       416 |
 | 39 | Reverse Bits                                              | --       | <a href=https://leetcode.com/problems/reverse-bits>RB</a>                                                    | `NOT DONE`                                                                                                                                                     | Easy         | Binary              |   3409 |       881 |
 | 40 | Number of 1 Bits                                          | --       | <a href=https://leetcode.com/problems/number-of-1-bits>NO1B</a>                                              | `NOT DONE`                                                                                                                                                     | Easy         | Binary              |   3964 |       890 |
-| 41 | House Robber                                              | --       | <a href=https://leetcode.com/problems/house-robber>HR</a>                                                    | `NOT DONE`                                                                                                                                                     | Medium       | Dynamic Programming |  13837 |       285 |
+| 41 | House Robber                                              | `DONE`   | <a href=https://leetcode.com/problems/house-robber>HR</a>                                                    | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/House%20Robber>HR-SOL</a>                                          | Medium       | Dynamic Programming |  13837 |       285 |
 | 42 | Number of Islands                                         | `DONE`   | <a href=https://leetcode.com/problems/number-of-islands>NOI</a>                                              | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Number%20of%20Islands>NOI-SOL</a>                                    | Medium       | Graph               |  15411 |       362 |
 | 43 | Reverse Linked List                                       | `DONE`   | <a href=https://leetcode.com/problems/reverse-linked-list>RLL</a>                                            | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Reverse%20Linked%20List>RLL-SOL</a>                                  | Easy         | Linked List         |  13711 |       237 |
 | 44 | Course Schedule                                           | --       | <a href=https://leetcode.com/problems/course-schedule>CS</a>                                                 | `NOT DONE`                                                                                                                                                     | Medium       | Graph               |  10678 |       420 |
@@ -83,16 +83,16 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| --     |       46 |
-| `DONE` |       30 |
+| --     |       45 |
+| `DONE` |       31 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
 |                     |   Tag |
 |:--------------------|------:|
 | String              |     7 |
+| Dynamic Programming |     6 |
 | Array               |     5 |
-| Dynamic Programming |     5 |
 | Linked List         |     3 |
 | Matrix              |     3 |
 | Tree                |     3 |
@@ -104,7 +104,7 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           18 |
+| Medium |           19 |
 | Easy   |           11 |
 |        |            1 |
 

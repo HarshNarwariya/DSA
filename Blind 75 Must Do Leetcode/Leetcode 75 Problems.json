@@ -453,8 +453,8 @@
   {
     "Problem": "House Robber",
     "Question": "https://leetcode.com/problems/house-robber",
-    "Solution": "#",
-    "Status": false,
+    "Solution": "https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/House%20Robber",
+    "Status": true,
     "Tag": "Dynamic Programming",
     "Difficulty": "Medium",
     "Like": 13837,
