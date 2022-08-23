@@ -695,8 +695,8 @@
   {
     "Problem": "Longest Increasing Subsequence",
     "Question": "https://leetcode.com/problems/longest-increasing-subsequence",
-    "Solution": "#",
-    "Status": false,
+    "Solution": "https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Longest%20Increasing%20Subsequence",
+    "Status": true,
     "Tag": "Dynamic Programming",
     "Difficulty": "Medium",
     "Like": 13854,

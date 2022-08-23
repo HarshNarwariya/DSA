@@ -66,7 +66,7 @@
 | 60 | Alien Dictionary                                          | --       | <a href=https://leetcode.com/problems/alien-dictionary>AD</a>                                                | `NOT DONE`                                                                                                                                                     |              | Graph               |     -1 |        -1 |
 | 61 | Encode and Decode Strings                                 | --       | <a href=https://leetcode.com/problems/encode-and-decode-strings>EADS</a>                                     | `NOT DONE`                                                                                                                                                     |              | String              |     -1 |        -1 |
 | 62 | Find Median from Data Stream                              | --       | <a href=https://leetcode.com/problems/find-median-from-data-stream>FMFDS</a>                                 | `NOT DONE`                                                                                                                                                     | Hard         | Heap                |   7766 |       140 |
-| 63 | Longest Increasing Subsequence                            | --       | <a href=https://leetcode.com/problems/longest-increasing-subsequence>LIS</a>                                 | `NOT DONE`                                                                                                                                                     | Medium       | Dynamic Programming |  13854 |       256 |
+| 63 | Longest Increasing Subsequence                            | `DONE`   | <a href=https://leetcode.com/problems/longest-increasing-subsequence>LIS</a>                                 | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Longest%20Increasing%20Subsequence>LIS-SOL</a>                     | Medium       | Dynamic Programming |  13854 |       256 |
 | 64 | Coin Change                                               | --       | <a href=https://leetcode.com/problems/coin-change>CC</a>                                                     | `NOT DONE`                                                                                                                                                     | Medium       | Dynamic Programming |  13209 |       296 |
 | 65 | Number of Connected Components in an Undirected Graph     | --       | <a href=https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>NOCCIAUG</a>     | `NOT DONE`                                                                                                                                                     |              | Graph               |     -1 |        -1 |
 | 66 | Counting Bits                                             | --       | <a href=https://leetcode.com/problems/counting-bits>CB</a>                                                   | `NOT DONE`                                                                                                                                                     | Easy         | Binary              |   7500 |       350 |
@@ -83,8 +83,8 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| --     |       47 |
-| `DONE` |       29 |
+| --     |       46 |
+| `DONE` |       30 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
@@ -92,7 +92,7 @@
 |:--------------------|------:|
 | String              |     7 |
 | Array               |     5 |
-| Dynamic Programming |     4 |
+| Dynamic Programming |     5 |
 | Linked List         |     3 |
 | Matrix              |     3 |
 | Tree                |     3 |
@@ -104,7 +104,7 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           17 |
+| Medium |           18 |
 | Easy   |           11 |
 |        |            1 |
 
