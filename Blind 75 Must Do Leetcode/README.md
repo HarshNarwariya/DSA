@@ -51,7 +51,7 @@
 | 45 | Implement Trie (Prefix Tree)                              | --       | <a href=https://leetcode.com/problems/implement-trie-prefix-tree>ITPT</a>                                    | `NOT DONE`                                                                                                                                                     |              | Tree                |     -1 |        -1 |
 | 46 | Design Add and Search Words Data Structure                | --       | <a href=https://leetcode.com/problems/design-add-and-search-words-data-structure>DAASWDS</a>                 | `NOT DONE`                                                                                                                                                     | Medium       | Tree                |   5237 |       262 |
 | 47 | Word Search II                                            | --       | <a href=https://leetcode.com/problems/word-search-ii>WSI</a>                                                 | `NOT DONE`                                                                                                                                                     | Hard         | Tree                |   6491 |       270 |
-| 48 | House Robber II                                           | --       | <a href=https://leetcode.com/problems/house-robber-ii>HRI</a>                                                | `NOT DONE`                                                                                                                                                     | Medium       | Dynamic Programming |   6432 |       101 |
+| 48 | House Robber II                                           | `DONE`   | <a href=https://leetcode.com/problems/house-robber-ii>HRI</a>                                                | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/House%20Robber%20II>HRI-SOL</a>                                    | Medium       | Dynamic Programming |   6432 |       101 |
 | 49 | Contains Duplicate                                        | `DONE`   | <a href=https://leetcode.com/problems/contains-duplicate>CD</a>                                              | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Contains%20Duplicate>CD-SOL</a>                                      | Easy         | Array               |   5968 |       996 |
 | 50 | Invert Binary Tree                                        | --       | <a href=https://leetcode.com/problems/invert-binary-tree>IBT</a>                                             | `NOT DONE`                                                                                                                                                     | Easy         | Tree                |   9303 |       132 |
 | 51 | Kth Smallest Element in a BST                             | --       | <a href=https://leetcode.com/problems/kth-smallest-element-in-a-bst>KSEIAB</a>                               | `NOT DONE`                                                                                                                                                     | Medium       | Tree                |   7882 |       137 |
@@ -83,15 +83,15 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| --     |       45 |
-| `DONE` |       31 |
+| --     |       44 |
+| `DONE` |       32 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
 |                     |   Tag |
 |:--------------------|------:|
 | String              |     7 |
-| Dynamic Programming |     6 |
+| Dynamic Programming |     7 |
 | Array               |     5 |
 | Linked List         |     3 |
 | Matrix              |     3 |
@@ -104,7 +104,7 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           19 |
+| Medium |           20 |
 | Easy   |           11 |
 |        |            1 |
 
