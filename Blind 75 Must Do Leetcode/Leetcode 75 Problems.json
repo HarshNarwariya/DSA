@@ -553,7 +553,7 @@
     "Problem": "Invert Binary Tree",
     "Question": "https://leetcode.com/problems/invert-binary-tree",
     "Solution": "#",
-    "Status": false,
+    "Status": true,
     "Tag": "Tree",
     "Difficulty": "Easy",
     "Like": 9303,
