@@ -30,13 +30,14 @@ Tags = []
 for item in data:
     q = item['Question']
     text = q.split('/')[-1]
-    print(text)
+    title = text
     text = ''.join(map(lambda t: t[0].upper(), text.split('-')))
     question = f"<a href={q}>{text}</a>"
     if (item['Solution'] == "#"):
         solution = "`NOT DONE`"
     else:
-        solution = f"<a href={item['Solution']}>{text}-SOL</a>"
+        title = "%20".join(map(lambda word: word.title(), title.split('-')))
+        solution = f"<a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/{title}>{text}-SOL</a>"
     Questions.append(question)
     Solutions.append(solution)
     Difficultys.append(item['Difficulty'])
