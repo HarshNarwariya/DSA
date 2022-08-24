@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int longestCommonSubsequence(string t1, string t2) {
+        int m = t1.length(), n = t2.length();
+        vector<vector<int>> cache(m + 1, vector<int> (n + 1, 0));
+        
+        for (int r = m - 1; r >= 0; r--) {
+            for (int c = n - 1; c >= 0; c--) {
+                if (t1[r] == t2[c]){
+                    cache[r][c] = 1 + cache[r + 1][c + 1];  
+                } 
+                else{
+                    cache[r][c] = max(
+                        cache[r][c + 1],
+                        cache[r + 1][c]
+                    );
+                }
+            }
+        }
+        return cache[0][0];
+    }
+};
