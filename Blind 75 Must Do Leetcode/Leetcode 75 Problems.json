@@ -827,7 +827,7 @@
   {
     "Problem": "Longest Common Subsequence",
     "Question": "https://leetcode.com/problems/longest-common-subsequence",
-    "Solution": "#",
+    "Solution": "https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Longest%20Common%20Subsequence",
     "Status": true,
     "Tag": "Dynamic Programming",
     "Difficulty": "Medium",
