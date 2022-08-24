@@ -76,15 +76,15 @@
 | 70 | Longest Repeating Character Replacement                   | --       | <a href=https://leetcode.com/problems/longest-repeating-character-replacement>LRCR</a>                       | `NOT DONE`                                                                                                                                                     | Medium       | String              |   5567 |       218 |
 | 71 | Non-overlapping Intervals                                 | --       | <a href=https://leetcode.com/problems/non-overlapping-intervals>NOI</a>                                      | `NOT DONE`                                                                                                                                                     | Medium       | Interval            |   4488 |       132 |
 | 72 | Serialize and Deserialize BST                             | --       | <a href=https://leetcode.com/problems/serialize-and-deserialize-bst>SADB</a>                                 | `NOT DONE`                                                                                                                                                     | Medium       | Tree                |   2870 |       137 |
-| 73 | Subtree of Another Tree                                   | --       | <a href=https://leetcode.com/problems/subtree-of-another-tree>SOAT</a>                                       | `NOT DONE`                                                                                                                                                     | Easy         | Tree                |   5912 |       321 |
+| 73 | Subtree of Another Tree                                   | `DONE`   | <a href=https://leetcode.com/problems/subtree-of-another-tree>SOAT</a>                                       | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Subtree%20of%20Another%20Tree>SOAT-SOL</a>                         | Easy         | Tree                |   5912 |       321 |
 | 74 | Palindromic Substrings                                    | `DONE`   | <a href=https://leetcode.com/problems/palindromic-substrings>PS</a>                                          | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Palindromic%20Substrings>PS-SOL</a>                                  | Medium       | String              |   7706 |       170 |
 | 75 | Longest Common Subsequence                                | `DONE`   | <a href=https://leetcode.com/problems/longest-common-subsequence>LCS</a>                                     | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Longest%20Common%20Subsequence>LCS-SOL</a>                         | Medium       | Dynamic Programming |   7681 |        86 |
 
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| --     |       41 |
-| `DONE` |       35 |
+| --     |       40 |
+| `DONE` |       36 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
@@ -93,8 +93,8 @@
 | Dynamic Programming |     8 |
 | String              |     7 |
 | Array               |     5 |
+| Tree                |     5 |
 | Matrix              |     4 |
-| Tree                |     4 |
 | Linked List         |     3 |
 | Interval            |     2 |
 | Graph               |     1 |
@@ -105,7 +105,7 @@
 |        |   Difficulty |
 |:-------|-------------:|
 | Medium |           22 |
-| Easy   |           12 |
+| Easy   |           13 |
 |        |            1 |
 
 ### Total Tags & Difficuties
