@@ -50,8 +50,8 @@
     "Status": true,
     "Tag": "Array",
     "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Like": 20600,
+    "Dislikes": 1934,
     "IsPaidOnly": false
   },
   {
@@ -388,7 +388,7 @@
     "Problem": "Linked List Cycle",
     "Question": "https://leetcode.com/problems/linked-list-cycle",
     "Solution": "#",
-    "Status": false,
+    "Status": true,
     "Tag": "Linked List",
     "Difficulty": "Easy",
     "Like": 9314,
@@ -644,9 +644,9 @@
     "Status": false,
     "Tag": "Graph",
     "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
-    "IsPaidOnly": false
+    "Like": "",
+    "Dislikes": "",
+    "IsPaidOnly": true
   },
   {
     "Problem": "Missing Number",
