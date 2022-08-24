@@ -806,7 +806,7 @@
     "Problem": "Subtree of Another Tree",
     "Question": "https://leetcode.com/problems/subtree-of-another-tree",
     "Solution": "#",
-    "Status": false,
+    "Status": true,
     "Tag": "Tree",
     "Difficulty": "Easy",
     "Like": 5912,
