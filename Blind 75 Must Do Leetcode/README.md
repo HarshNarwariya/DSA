@@ -17,7 +17,7 @@
 | 11 | Rotate Image                                              | `DONE`   | <a href=https://leetcode.com/problems/rotate-image>RI</a>                                                    | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Rotate%20Image>RI-SOL</a>                                            | Medium       | Matrix              |  10667 |       537 |
 | 12 | Group Anagrams                                            | `DONE`   | <a href=https://leetcode.com/problems/group-anagrams>GA</a>                                                  | <a href=https://github.com/HarshNarwariya/DSA/blob/main/Blind%2075%20Must%20Do%20Leetcode/Group%20Anagrams/solution.cpp>GA-SOL</a>                             | Medium       | String              |  10887 |       348 |
 | 13 | Maximum Subarray                                          | `DONE`   | <a href=https://leetcode.com/problems/maximum-subarray>MS</a>                                                | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Maximum%20Subarray>MS-SOL</a>                                        | Medium       | Array               |  23619 |      1129 |
-| 14 | Spiral Matrix                                             | --       | <a href=https://leetcode.com/problems/spiral-matrix>SM</a>                                                   | `NOT DONE`                                                                                                                                                     | Medium       | Matrix              |   8281 |       889 |
+| 14 | Spiral Matrix                                             | `DONE`   | <a href=https://leetcode.com/problems/spiral-matrix>SM</a>                                                   | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Spiral%20Matrix>SM-SOL</a>                                         | Medium       | Matrix              |   8281 |       889 |
 | 15 | Jump Game                                                 | `DONE`   | <a href=https://leetcode.com/problems/jump-game>JG</a>                                                       | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Jump%20Game>JG-SOL</a>                                               | Medium       | Dynamic Programming |  12374 |       665 |
 | 16 | Merge Intervals                                           | `DONE`   | <a href=https://leetcode.com/problems/merge-intervals>MI</a>                                                 | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Merge%20Intervals>MI-SOL</a>                                         | Medium       | Interval            |  15305 |       554 |
 | 17 | Insert Interval                                           | `DONE`   | <a href=https://leetcode.com/problems/insert-interval>II</a>                                                 | <a href=https://github.com/HarshNarwariya/DSA/blob/main/Blind%2075%20Must%20Do%20Leetcode/Insert%20Interval/solution.cpp>II-SOL</a>                            | Medium       | Interval            |   5536 |       378 |
@@ -83,8 +83,8 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| --     |       42 |
-| `DONE` |       34 |
+| --     |       41 |
+| `DONE` |       35 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
@@ -93,9 +93,9 @@
 | Dynamic Programming |     8 |
 | String              |     7 |
 | Array               |     5 |
+| Matrix              |     4 |
 | Tree                |     4 |
 | Linked List         |     3 |
-| Matrix              |     3 |
 | Interval            |     2 |
 | Graph               |     1 |
 | Binary              |     1 |
@@ -104,7 +104,7 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           21 |
+| Medium |           22 |
 | Easy   |           12 |
 |        |            1 |
 
