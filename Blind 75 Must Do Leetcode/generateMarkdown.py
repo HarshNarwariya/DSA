@@ -30,6 +30,7 @@ Tags = []
 for item in data:
     q = item['Question']
     text = q.split('/')[-1]
+    print(text)
     text = ''.join(map(lambda t: t[0].upper(), text.split('-')))
     question = f"<a href={q}>{text}</a>"
     if (item['Solution'] == "#"):
