@@ -157,7 +157,7 @@
     "Problem": "Spiral Matrix",
     "Question": "https://leetcode.com/problems/spiral-matrix",
     "Solution": "#",
-    "Status": false,
+    "Status": true,
     "Tag": "Matrix",
     "Difficulty": "Medium",
     "Like": 8281,
