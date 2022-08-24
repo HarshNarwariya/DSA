@@ -53,7 +53,7 @@
 | 47 | Word Search II                                            | --       | <a href=https://leetcode.com/problems/word-search-ii>WSI</a>                                                 | `NOT DONE`                                                                                                                                                     | Hard         | Tree                |   6491 |       270 |
 | 48 | House Robber II                                           | `DONE`   | <a href=https://leetcode.com/problems/house-robber-ii>HRI</a>                                                | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/House%20Robber%20II>HRI-SOL</a>                                    | Medium       | Dynamic Programming |   6432 |       101 |
 | 49 | Contains Duplicate                                        | `DONE`   | <a href=https://leetcode.com/problems/contains-duplicate>CD</a>                                              | <a href=https://github.com/HarshNarwariya/DSA/tree/main/Blind%2075%20Must%20Do%20Leetcode/Contains%20Duplicate>CD-SOL</a>                                      | Easy         | Array               |   5968 |       996 |
-| 50 | Invert Binary Tree                                        | --       | <a href=https://leetcode.com/problems/invert-binary-tree>IBT</a>                                             | `NOT DONE`                                                                                                                                                     | Easy         | Tree                |   9303 |       132 |
+| 50 | Invert Binary Tree                                        | `DONE`   | <a href=https://leetcode.com/problems/invert-binary-tree>IBT</a>                                             | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Invert%20Binary%20Tree>IBT-SOL</a>                                 | Easy         | Tree                |   9303 |       132 |
 | 51 | Kth Smallest Element in a BST                             | --       | <a href=https://leetcode.com/problems/kth-smallest-element-in-a-bst>KSEIAB</a>                               | `NOT DONE`                                                                                                                                                     | Medium       | Tree                |   7882 |       137 |
 | 52 | Lowest Common Ancestor of a Binary Search Tree            | --       | <a href=https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree>LCAOABST</a>            | `NOT DONE`                                                                                                                                                     | Easy         | Tree                |   6784 |       213 |
 | 53 | Lowest Common Ancestor of a Binary Tree                   | --       | <a href=https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>LCAOABT</a>                    | `NOT DONE`                                                                                                                                                     | Medium       | Tree                |  11783 |       299 |
@@ -83,8 +83,8 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| --     |       43 |
-| `DONE` |       33 |
+| --     |       42 |
+| `DONE` |       34 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
@@ -93,9 +93,9 @@
 | Dynamic Programming |     8 |
 | String              |     7 |
 | Array               |     5 |
+| Tree                |     4 |
 | Linked List         |     3 |
 | Matrix              |     3 |
-| Tree                |     3 |
 | Interval            |     2 |
 | Graph               |     1 |
 | Binary              |     1 |
@@ -105,7 +105,7 @@
 |        |   Difficulty |
 |:-------|-------------:|
 | Medium |           21 |
-| Easy   |           11 |
+| Easy   |           12 |
 |        |            1 |
 
 ### Total Tags & Difficuties
