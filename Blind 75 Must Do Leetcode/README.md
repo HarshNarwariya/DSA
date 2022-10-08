@@ -56,7 +56,7 @@
 | 50 | Invert Binary Tree                                        | `DONE`   | <a href=https://leetcode.com/problems/invert-binary-tree>IBT</a>                                             | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Invert%20Binary%20Tree>IBT-SOL</a>                                            | Easy         | Tree                | 9303   | 132       |
 | 51 | Kth Smallest Element in a BST                             | --       | <a href=https://leetcode.com/problems/kth-smallest-element-in-a-bst>KSEIAB</a>                               | `NOT DONE`                                                                                                                                                                | Medium       | Tree                | 7882   | 137       |
 | 52 | Lowest Common Ancestor of a Binary Search Tree            | `DONE`   | <a href=https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree>LCAOABST</a>            | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Lowest%20Common%20Ancestor%20Of%20A%20Binary%20Search%20Tree>LCAOABST-SOL</a> | Easy         | Tree                | 6784   | 213       |
-| 53 | Lowest Common Ancestor of a Binary Tree                   | --       | <a href=https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>LCAOABT</a>                    | `NOT DONE`                                                                                                                                                                | Medium       | Tree                | 11783  | 299       |
+| 53 | Lowest Common Ancestor of a Binary Tree                   | `DONE`   | <a href=https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>LCAOABT</a>                    | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Lowest%20Common%20Ancestor%20Of%20A%20Binary%20Tree>LCAOABT-SOL</a>           | Medium       | Tree                | 11783  | 299       |
 | 54 | Product of Array Except Self                              | --       | <a href=https://leetcode.com/problems/product-of-array-except-self>POAES</a>                                 | `NOT DONE`                                                                                                                                                                | Medium       | Array               | 13820  | 794       |
 | 55 | Valid Anagram                                             | `DONE`   | <a href=https://leetcode.com/problems/valid-anagram>VA</a>                                                   | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Valid%20Anagram>VA-SOL</a>                                                    | Easy         | String              | 6482   | 237       |
 | 56 | Meeting Rooms                                             | --       | <a href=https://leetcode.com/problems/meeting-rooms>MR</a>                                                   | `NOT DONE`                                                                                                                                                                |              | Interval            | -1     | -1        |
@@ -83,8 +83,8 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| `DONE` |       38 |
-| --     |       38 |
+| `DONE` |       39 |
+| --     |       37 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
@@ -92,7 +92,7 @@
 |:--------------------|------:|
 | Dynamic Programming |     8 |
 | String              |     7 |
-| Tree                |     6 |
+| Tree                |     7 |
 | Array               |     5 |
 | Linked List         |     4 |
 | Matrix              |     4 |
@@ -104,7 +104,7 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           22 |
+| Medium |           23 |
 | Easy   |           15 |
 |        |            1 |
 
