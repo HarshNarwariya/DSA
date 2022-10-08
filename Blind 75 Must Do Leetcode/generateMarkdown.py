@@ -176,7 +176,7 @@ df = pd.DataFrame({
     "Like": Likes,
     "Dislike": Dislikes,
     "DFF": DFF,
-}).sort_values(by=['DFF', 'Title', 'Tag'], ignore_index=True)
+}).sort_values(by=['DFF', 'Title', 'Tag'], ignore_index=True).drop(['DFF'], axis=1)
 
 
 whole_table = df.to_markdown()
