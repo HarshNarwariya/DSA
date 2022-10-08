@@ -32,7 +32,7 @@
 | 26 | Binary Tree Level Order Traversal                         | `DONE`   | <a href=https://leetcode.com/problems/binary-tree-level-order-traversal>BTLOT</a>                            | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Binary%20Tree%20Level%20Order%20Traversal>BTLOT-SOL</a>                       | Medium       | Tree                | 10067  | 193       |
 | 27 | Maximum Depth of Binary Tree                              | `DONE`   | <a href=https://leetcode.com/problems/maximum-depth-of-binary-tree>MDOBT</a>                                 | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Maximum%20Depth%20Of%20Binary%20Tree>MDOBT-SOL</a>                            | Easy         | Tree                | 7948   | 136       |
 | 28 | Construct Binary Tree from Preorder and Inorder Traversal | --       | <a href=https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal>CBTFPAIT</a> | `NOT DONE`                                                                                                                                                                | Medium       | Tree                | 10447  | 280       |
-| 29 | Best Time to Buy and Sell Stock                           | --       | <a href=https://leetcode.com/problems/best-time-to-buy-and-sell-stock>BTTBASS</a>                            | `NOT DONE`                                                                                                                                                                | Easy         | Array               | 18675  | 599       |
+| 29 | Best Time to Buy and Sell Stock                           | `DONE`   | <a href=https://leetcode.com/problems/best-time-to-buy-and-sell-stock>BTTBASS</a>                            | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Best%20Time%20To%20Buy%20And%20Sell%20Stock>BTTBASS-SOL</a>                   | Easy         | Array               | 18675  | 599       |
 | 30 | Binary Tree Maximum Path Sum                              | --       | <a href=https://leetcode.com/problems/binary-tree-maximum-path-sum>BTMPS</a>                                 | `NOT DONE`                                                                                                                                                                | Hard         | Tree                | 10844  | 573       |
 | 31 | Valid Palindrome                                          | `DONE`   | <a href=https://leetcode.com/problems/valid-palindrome>VP</a>                                                | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Valid%20Palindrome>VP-SOL</a>                                                 | Easy         | String              | 4406   | 5738      |
 | 32 | Longest Consecutive Sequence                              | --       | <a href=https://leetcode.com/problems/longest-consecutive-sequence>LCS</a>                                   | `NOT DONE`                                                                                                                                                                | Medium       | Graph               | 12426  | 523       |
@@ -83,8 +83,8 @@
 ## Problems Done Yet
 |        |   Status |
 |:-------|---------:|
-| `DONE` |       39 |
-| --     |       37 |
+| `DONE` |       40 |
+| --     |       36 |
 
 ### Total Questions Done Acc To Tags & Difficuties
 
@@ -93,7 +93,7 @@
 | Dynamic Programming |     8 |
 | String              |     7 |
 | Tree                |     7 |
-| Array               |     5 |
+| Array               |     6 |
 | Linked List         |     4 |
 | Matrix              |     4 |
 | Interval            |     2 |
@@ -105,7 +105,7 @@
 |        |   Difficulty |
 |:-------|-------------:|
 | Medium |           24 |
-| Easy   |           15 |
+| Easy   |           16 |
 
 ### Total Tags & Difficuties
 |                     |   Tag |

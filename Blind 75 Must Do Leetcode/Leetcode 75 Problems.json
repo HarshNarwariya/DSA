@@ -321,8 +321,8 @@
   {
     "Problem": "Best Time to Buy and Sell Stock",
     "Question": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-    "Solution": "#",
-    "Status": false,
+    "Solution": "https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Best%20Time%20to%20Buy%20and%20Sell%20Stock",
+    "Status": true,
     "Tag": "Array",
     "Difficulty": "Easy",
     "Like": 18675,
