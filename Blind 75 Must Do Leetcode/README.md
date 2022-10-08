@@ -7,7 +7,7 @@
 |  1 | Longest Substring Without Repeating Characters            | `DONE`   | <a href=https://leetcode.com/problems/longest-substring-without-repeating-characters>LSWRC</a>               | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Longest%20Substring%20Without%20Repeating%20Characters>LSWRC-SOL</a>          | Medium       | String              | 27270  | 1176      |
 |  2 | Longest Palindromic Substring                             | `DONE`   | <a href=https://leetcode.com/problems/longest-palindromic-substring>LPS</a>                                  | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Longest%20Palindromic%20Substring>LPS-SOL</a>                                 | Medium       | String              | 20445  | 1176      |
 |  3 | Container With Most Water                                 | `DONE`   | <a href=https://leetcode.com/problems/container-with-most-water>CWMW</a>                                     | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Container%20With%20Most%20Water>CWMW-SOL</a>                                  | Medium       | Array               | 19034  | 1032      |
-|  4 | 3 Sum                                                     | `DONE`   | <a href=https://leetcode.com/problems/3sum>3</a>                                                             | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/3Sum>3-SOL</a>                                                                |              | Array               | 20600  | 1934      |
+|  4 | 3 Sum                                                     | `DONE`   | <a href=https://leetcode.com/problems/3sum>3</a>                                                             | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/3Sum>3-SOL</a>                                                                | Medium       | Array               | 20600  | 1934      |
 |  5 | Remove Nth Node From End of List                          | `DONE`   | <a href=https://leetcode.com/problems/remove-nth-node-from-end-of-list>RNNFEOL</a>                           | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Remove%20Nth%20Node%20From%20End%20Of%20List>RNNFEOL-SOL</a>                  | Medium       | Linked List         | 11622  | 523       |
 |  6 | Valid Parentheses                                         | `DONE`   | <a href=https://leetcode.com/problems/valid-parentheses>VP</a>                                               | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Valid%20Parentheses>VP-SOL</a>                                                | Easy         | String              | 14730  | 715       |
 |  7 | Merge Two Sorted Lists                                    | `DONE`   | <a href=https://leetcode.com/problems/merge-two-sorted-lists>MTSL</a>                                        | <a href=https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Merge%20Two%20Sorted%20Lists>MTSL-SOL</a>                                     | Easy         | Linked List         | 13920  | 1251      |
@@ -104,9 +104,8 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           23 |
+| Medium |           24 |
 | Easy   |           15 |
-|        |            1 |
 
 ### Total Tags & Difficuties
 |                     |   Tag |
@@ -126,7 +125,7 @@
 
 |        |   Difficulty |
 |:-------|-------------:|
-| Medium |           44 |
+| Medium |           45 |
 | Easy   |           19 |
-|        |            8 |
+|        |            7 |
 | Hard   |            5 |
