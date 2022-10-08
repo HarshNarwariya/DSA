@@ -60,7 +60,7 @@ df = pd.DataFrame({
     "Tag": Tags,
     "Like": Likes,
     "Dislike": Dislikes,
-})
+}).sort_values(by=["Difficulty", "Title", "Tag", "Like"])
 
 
 whole_table = df.to_markdown()
