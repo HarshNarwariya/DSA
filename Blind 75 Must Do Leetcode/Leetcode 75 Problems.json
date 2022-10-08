@@ -500,9 +500,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "Tree",
-    "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": false
   },
   {
@@ -621,9 +621,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "Interval",
-    "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": false
   },
   {
@@ -632,9 +632,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "Interval",
-    "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": false
   },
   {
@@ -643,9 +643,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "Graph",
-    "Difficulty": "",
-    "Like": "",
-    "Dislikes": "",
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": true
   },
   {
@@ -665,9 +665,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "Graph",
-    "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": false
   },
   {
@@ -676,9 +676,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "String",
-    "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": false
   },
   {
@@ -720,9 +720,9 @@
     "Solution": "#",
     "Status": false,
     "Tag": "Graph",
-    "Difficulty": "",
-    "Like": -1,
-    "Dislikes": -1,
+    "Difficulty": "NAN",
+    "Like": 0,
+    "Dislikes": 0,
     "IsPaidOnly": false
   },
   {
