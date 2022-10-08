@@ -80,7 +80,7 @@
 | 75 | Number of Connected Components in an Undirected Graph     | --       | <a href=https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph>NOCCIAUG</a>     | `NOT DONE`                                                                                                                                                                | NAN          | Graph               |      0 |         0 |
 
 <a href="https://raw.githubusercontent.com/HarshNarwariya/DSA/master/Blind%2075%20Must%20Do%20Leetcode/Leetcode%2075%20Problems.json" download>Download Data</a>
-<a href="/images/myw3schoolsimage.jpg" download>Download Image</a>  
+<a href="https://www.w3schools.com/images/myw3schoolsimage.jpg" download>Download Image</a>  
  
 ## Problems Done Yet
 |        |   Status |
