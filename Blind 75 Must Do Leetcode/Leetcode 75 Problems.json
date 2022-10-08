@@ -583,17 +583,6 @@
     "IsPaidOnly": false
   },
   {
-    "Problem": "Lowest Common Ancestor of a Binary Tree",
-    "Question": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
-    "Solution": "https://github.com/HarshNarwariya/DSA/tree/master/Blind%2075%20Must%20Do%20Leetcode/Lowest%20Common%20Ancestor%20Of%20A%20Binary%20Search%20Tree",
-    "Status": true,
-    "Tag": "Tree",
-    "Difficulty": "Medium",
-    "Like": 11783,
-    "Dislikes": 299,
-    "IsPaidOnly": false
-  },
-  {
     "Problem": "Product of Array Except Self",
     "Question": "https://leetcode.com/problems/product-of-array-except-self",
     "Solution": "#",
