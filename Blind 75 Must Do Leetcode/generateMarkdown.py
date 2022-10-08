@@ -178,6 +178,8 @@ df = pd.DataFrame({
     "DFF": DFF,
 }).sort_values(by=['DFF', 'Title', 'Tag'], ignore_index=True).drop(['DFF'], axis=1)
 
+df.index += 1
+
 
 whole_table = df.to_markdown()
 tag_wise_done = df[df['Status'] == '`DONE`']['Tag'].value_counts().to_markdown()
